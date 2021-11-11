@@ -1,0 +1,22 @@
+ h1 {
+    color: darkgreen;
+   font-family: georgia;
+   text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+h3{
+    text-transform: uppercase;
+}
+
+
+
